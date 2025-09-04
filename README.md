@@ -1,8 +1,6 @@
 # Elevvo-internship
 Data analysis with Excel, Python, SQL, and Power BI on Kaggle datasets
 
-# Elevvo Data Analytics Internship Projects
-
 ## Overview
 This repository contains my completed projects for the Elevvo Internship in Data Analytics. I enrolled in the 2-week format and completed 7 tasks (exceeding the minimum of 3) to meet and surpass the requirements. The tasks focus on real-world data analysis skills using tools like Excel, Python (Pandas, Seaborn, Matplotlib), SQL, Power BI, and more.
 
